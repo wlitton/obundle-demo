@@ -1,0 +1,11 @@
+{
+  "normalStoreUrl": "https://obundle-demo.mybigcommerce.com/",
+  "accessToken": "h5pkgqggbx7hkgb3a0kd76jqcpdot0h",
+  "port": 3000,
+  "customLayouts": {
+    "brand": {},
+    "category": {},
+    "page": {},
+    "product": {}
+  }
+}
